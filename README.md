@@ -77,15 +77,12 @@ Through this project, I strengthened my understanding of:
 - Unit Testing
 
 ---
-
 ## Future Improvements
 
 - Add support for more asset classes
 - Include portfolio optimization
 - Add benchmark comparison against major indexes
 - Improve visualizations and dashboard layout
-- Deploy the app publicly using Streamlit Cloud
-
 ---
 
 ## Running the Project
